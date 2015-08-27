@@ -7,10 +7,11 @@ I am planning on creating a landscape using mosly CSS. Within the landscape, I w
 
 1. I would like to become more proficient in css and animations.
 2. Work on best practices to improve performance, expecially when there are going to be a lot of animations. 
-3. Learn how to make it work accross multiple browsers such as, Chrome, Firefox, Edge
+3. Learn how to make it work across multiple browsers such as, Chrome, Firefox, Edge
+4. Increase my workflow using Sass instead of css
 
 #### Technologies being used
 * HTML
 * JavaScript
-* [Sass](http://sass-lang.com/)
-* [Grunt](http://gruntjs.com/)
+* [Sass](http://sass-lang.com/) - CSS preprocessor
+* [Grunt](http://gruntjs.com/) - Task manager
